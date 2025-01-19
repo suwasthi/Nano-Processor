@@ -21,9 +21,9 @@ Contributions
                                          - LUT
                                          - 7-Segment Display
 
-@Suwasthiga (suwasthi) - 3-Bit Program counter
-                       - Multiplexer
-                       - 3 to 8 Decoder
+@Suwasthiga (https://github.com/suwasthi) - 3-Bit Program counter
+                                          - Multiplexer
+                                          - 3 to 8 Decoder
 
 
 
