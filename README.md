@@ -8,10 +8,10 @@ You can view diagrams of the units used and also the overall diagram of the nano
 
 Contributions
 
-[Arthikha]  - Nano
-                     - Nano with 7 seg
-                     - Reset controller
-                     - Display 7 seg
+[Arthikha] (https://github.com/Arthikha) - Nano
+                                         - Nano with 7 seg
+                                         - Reset controller
+                                         - Display 7 seg
 
 [Parkkavi] (https://github.com/ParkkaviSivakaran72) - 4-Bit Adder
                                                     - 4-Bit Substractor
