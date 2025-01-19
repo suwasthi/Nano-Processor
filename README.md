@@ -8,7 +8,7 @@ You can view diagrams of the units used and also the overall diagram of the nano
 
 Contributions
 
-@Arthikha (Arthikha) - Nano
+[Arthikha]  - Nano
                      - Nano with 7 seg
                      - Reset controller
                      - Display 7 seg
@@ -17,9 +17,9 @@ Contributions
                                 - 4-Bit Substractor
                                 - 4-Bit Register
 
-@Rahavi (RahaviSri) - 3-Bit Adder
-                    - LUT
-                    - 7-Segment Display
+[Rahavi] (https://github.com/RahaviSiri) - 3-Bit Adder
+                                         - LUT
+                                         - 7-Segment Display
 
 @Suwasthiga (suwasthi) - 3-Bit Program counter
                        - Multiplexer
