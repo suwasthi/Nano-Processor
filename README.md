@@ -31,34 +31,30 @@ A simple 4-bit nanoprocessor designed using VHDL and implemented on the BASYS 3 
 | `NEG R` | Negate value in register `R` |
 | `JZR R, d` | Jump to address `d` if register `R` is zero |
 
-##  Sample Program
 
-```asm
-MOVI R1, 10   ; R1 ← 10  
-MOVI R2, 1    ; R2 ← 1  
-NEG R2        ; R2 ← -1  
-ADD R1, R2    ; R1 ← R1 + R2  
-JZR R1, 7     ; If R1 == 0, jump to instruction at address 7  
+## Contributions
 
+- [Arthikha](https://github.com/Arthikha)
+  - Nanoprocessor core
+  - Nanoprocessor with 7-segment display
+  - Reset controller
+  - 7-segment display module
 
-Contributions
+- [Parkkavi](https://github.com/ParkkaviSivakaran72)
+  - 4-bit Adder
+  - 4-bit Subtractor
+  - 4-bit Register
 
-[Arthikha] (https://github.com/Arthikha) - Nano
-                                         - Nano with 7 seg
-                                         - Reset controller
-                                         - Display 7 seg
+- [Rahavi](https://github.com/RahaviSiri)
+  - 3-bit Adder
+  - Lookup Table (LUT)
+  - 7-segment display controller
 
-[Parkkavi] (https://github.com/ParkkaviSivakaran72) - 4-Bit Adder
-                                                    - 4-Bit Substractor
-                                                    - 4-Bit Register
+- [Suwasthiga](https://github.com/suwasthi)
+  - 3-bit Program Counter
+  - Multiplexer
+  - 3-to-8 Decoder
 
-[Rahavi] (https://github.com/RahaviSiri) - 3-Bit Adder
-                                         - LUT
-                                         - 7-Segment Display
-
-[Suwasthiga] (https://github.com/suwasthi) - 3-Bit Program counter
-                                           - Multiplexer
-                                           - 3 to 8 Decoder
 
 
 
